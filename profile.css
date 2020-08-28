@@ -1,0 +1,51 @@
+*
+{
+   position:relative ; 
+   box-sizing:border-box;
+   font-family: 'roboto',sans-serif;
+}
+.content
+{
+   padding: 8px;
+   margin: auto;
+   float: left;
+   margin-left: 50px;
+}
+p
+{
+   display: block;
+   clear:both;
+   word-wrap: break-word;
+   margin-top: 0px; 
+}
+.box
+{
+   display:block; 
+   float: left;
+   padding:14px;
+   margin: 8px 0;
+   background:white;
+   width:100%;
+   box-shadow:0 0 5px rgba(25,25,25,0.3), 0 0 8px rgba(25,25,25,0.1) ;
+}
+.title
+{
+   position: absolute;
+   width: 100%;
+   top: 0px;
+   left: 0;
+   background: #d1d1d1;
+   padding: 5px;
+   font-size: 20px;
+   color: teal;
+}
+.padd-top
+{
+   padding-top: 35px;
+}
+img
+{
+    padding-top: 35px;
+    width: 200px;
+    height: 400px;
+}
